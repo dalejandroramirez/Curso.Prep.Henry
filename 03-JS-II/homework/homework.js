@@ -1,7 +1,7 @@
 // No cambies los nombres de las funciones.
 
 function obtenerMayor(x, y) {
-    if(x==y){
+    if(x == y){
         return x}
     else if (x > y) {
         return x
